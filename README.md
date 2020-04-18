@@ -3,6 +3,7 @@ A project template for fellows to present high quality GitHubs
 
 ## Directory Structure
 
+```
 project_name
 │   README.md
 │   LICENSE.md    
@@ -17,12 +18,13 @@ project_name
 │   └───predict.py
 │   └───train.py
 │       ...
+```
 
 ## Setup
 
 ## Requisites
 
-## Acknolwedgements
+## Acknowledgements 
 
 Based off two templates
 
