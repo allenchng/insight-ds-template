@@ -1,0 +1,1 @@
+This file is a placeholder. Remove once you add files to the folder.
