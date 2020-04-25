@@ -22,9 +22,21 @@ project_name
 
 ## Setup
 
+Specify how future users can install this directory.
+
 ## Requisites
 
-## Acknowledgements 
+Make sure to always include a requirements.txt file to let future users know what packages and dependencies are required.
+
+''' 
+pip freeze > requirements.txt
+'''
+
+## Tests
+
+See an excellent example of unit tests [here](https://github.com/ychebaro/project_insight/tree/master/scificrew/tests/scificrew)
+
+## Acknowledgements
 
 Based off two templates
 
