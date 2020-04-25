@@ -20,6 +20,12 @@ project_name
 │       ...
 ```
 
+## Project Write Up
+
+Provide a walk through of your project for future users. See a few excellent examples below.
+
+[OncoMatch by Yuchen Xie](https://github.com/xiey1/OncoMatch)
+
 ## Setup
 
 Specify how future users can install this directory.
@@ -28,9 +34,9 @@ Specify how future users can install this directory.
 
 Make sure to always include a requirements.txt file to let future users know what packages and dependencies are required.
 
-''' 
+```
 pip freeze > requirements.txt
-'''
+```
 
 ## Tests
 
